@@ -1,0 +1,19 @@
+.cacks{
+    margin: 1rem 0rem;
+    .cack_container{
+        margin-bottom: 30px;
+    }
+    .cack_item{
+        height: 100%;
+        font-family: Exo
+    }
+    nb-card-body{
+        padding: 0px;
+        .cack_info{
+            padding: 15px;
+        }
+        .img-fluid{
+            width: 100%;
+        }
+    }
+}

@@ -1,0 +1,11 @@
+homepage-header{
+    display: flex;
+    width: 100%;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    font-family: Exo;
+}
+.nb-theme-default nb-layout nb-layout-column{
+    padding: 0rem;
+}
